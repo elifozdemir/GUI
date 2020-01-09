@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buttonGame", "buttonGame\buttonGame.csproj", "{1875B276-06BC-4DC0-9054-CD1E05514946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1875B276-06BC-4DC0-9054-CD1E05514946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1875B276-06BC-4DC0-9054-CD1E05514946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1875B276-06BC-4DC0-9054-CD1E05514946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1875B276-06BC-4DC0-9054-CD1E05514946}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED90D94-19D4-453C-B12B-EFCDEF7A1960}
+	EndGlobalSection
+EndGlobal
